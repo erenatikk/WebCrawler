@@ -1,0 +1,19 @@
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\bin\Debug\WebCrawler Project.exe.config
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\bin\Debug\WebCrawler Project.exe
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\bin\Debug\WebCrawler Project.pdb
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project.csproj.AssemblyReference.cache
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\MainWindow.g.cs
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\App.g.cs
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project_MarkupCompile.cache
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project_MarkupCompile.lref
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\MainWindow.baml
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project.g.resources
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler_Project.Properties.Resources.resources
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project.csproj.GenerateResource.cache
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project.csproj.CoreCompileInputs.cache
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project.exe
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project.pdb
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\bin\Debug\HtmlAgilityPack.dll
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\bin\Debug\HtmlAgilityPack.xml
+C:\Users\abc\source\repos\WebCrawler Project\WebCrawler Project\obj\Debug\WebCrawler Project.csproj.CopyComplete
